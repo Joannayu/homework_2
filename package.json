@@ -1,0 +1,11 @@
+{
+  "name": "dius_shopping",
+  "version": "1.0.0",
+  "description": "DiUS is starting a computer store. You have been engaged to build...",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Zhou Yu",
+  "license": "ISC"
+}
