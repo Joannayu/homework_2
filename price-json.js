@@ -1,17 +1,19 @@
 let priceList = [{
-	SKU: 'ipd',
+	sku: 'ipd',
 	name: 'Super Ipad',
 	price: 549.99
 }, {
-	SKU: 'mbp',
+	sku: 'mbp',
 	name: 'Macbook Pro',
 	price: 1399.99
 }, {
-	SKU: 'atv',
+	sku: 'atv',
 	name: 'Apple TV',
 	price: 109.50
 }, {
-	SKU: 'vga', 
+	sku: 'vga', 
 	name: 'VGA adapter',
 	price: 30.00
 }]
+
+module.exports = priceList;
